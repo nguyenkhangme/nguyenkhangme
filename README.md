@@ -4,6 +4,9 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 
+fb linkedin twitter
+<i class="fa-solid fa-user"></i>
+
 <table><tr><td valign="top" width="33%">
 
 ### Recent releases
@@ -26,8 +29,6 @@ More on [nguyenkhang.me](https://nguyenkhang.me/)
 <!-- tils ends -->
 More on [.](#)
 </td></tr></table>
-
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
 <!--
 **Al3927/Al3927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
