@@ -6,6 +6,8 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 fb linkedin twitter
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 <i class="fa-solid fa-user"></i>
 
 <table><tr><td valign="top" width="33%">
