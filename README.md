@@ -6,7 +6,9 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 fb linkedin twitter
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+<a href="https://facebook.com/nguyenkhang19"><img src="https://img.shields.io/badge/-facebook-blue" alt="fb"></a>
+
+- ![]() 
 
 <i class="fa-solid fa-user"></i>
 
