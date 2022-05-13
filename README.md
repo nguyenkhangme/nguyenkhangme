@@ -5,7 +5,7 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 
 <a href="https://facebook.com/nguyenkhang19" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue" alt="fb"></a> 
-<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"></a> 
+<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-informational" alt="linkedin"></a> 
 <a href="http://twitter.com/duncanal27" target="_blank"><img src="https://img.shields.io/badge/-twitter-9cf" alt="twitter"></a>
 
 <table><tr><td valign="top" width="33%">
