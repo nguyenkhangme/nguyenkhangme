@@ -8,6 +8,8 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 <a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"></a> 
 <a href="http://twitter.com/duncanal27" target="_blank"><img src="https://img.shields.io/badge/-twitter-9cf" alt="twitter"></a>
 
+<a href="javascript:alert('Hello World!');">Execute JavaScript</a>
+
 <table><tr><td valign="top" width="33%">
 
 ### Recent releases
