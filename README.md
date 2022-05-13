@@ -6,7 +6,7 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 fb linkedin twitter
 
-<a href="https://facebook.com/nguyenkhang19"><img src="https://img.shields.io/badge/-facebook-blue" alt="fb"></a>
+<a href="https://facebook.com/nguyenkhang19"><img src="https://img.shields.io/badge/-facebook-blue" alt="fb"></a> <a href="http://linkedin.com/in/nguyenkhangme/"><img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"></a> <a href="http://twitter.com/duncanal27"><img src="https://img.shields.io/badge/-twitter-9cf" alt="twitter"></a>
 
 - ![]() 
 
