@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on a non-profit organization[KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
+Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 
