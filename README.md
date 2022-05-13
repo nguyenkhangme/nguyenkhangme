@@ -8,7 +8,6 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 <a href="http://linkedin.com/in/nguyenkhangme/"><img src="https://img.shields.io/badge/-linkedin-blue" alt="linkedin"></a> 
 <a href="http://twitter.com/duncanal27"><img src="https://img.shields.io/badge/-twitter-9cf" alt="twitter"></a>
 
-- ![]() 
 
 <i class="fa-solid fa-user"></i>
 
