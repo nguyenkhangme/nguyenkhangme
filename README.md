@@ -31,6 +31,10 @@ More on [nguyenkhang.me](https://nguyenkhang.me/)
 More on [.](#)
 </td></tr></table>
 
+I build this markdown file with:
+- [https://shields.io](https://shields.io)
+- [https://simpleicons.org](https://simpleicons.org)
+- [https://github.com/simonw/simonw](https://github.com/simonw/simonw)
 <!--
 **Al3927/Al3927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
