@@ -10,21 +10,21 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### iOS repositories
 <!-- recent_releases starts -->
 [.](#) - 2022-09-09
 <!-- recent_releases ends -->
 More [recent releases](#)
 </td><td valign="top" width="34%">
 
-### On my blog
+### AI repositories
 <!-- blog starts -->
 [.](#) - 2022-09-09
 <!-- blog ends -->
 More on [nguyenkhang.me](https://nguyenkhang.me/)
 </td><td valign="top" width="33%">
 
-### TIL
+### Data Science repositories
 <!-- tils starts -->
 [.](#) - 2022-09-09
 <!-- tils ends -->
