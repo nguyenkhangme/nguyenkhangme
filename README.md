@@ -6,7 +6,7 @@
 
 <p align="center">
   <br />
-    <a title="banner" href="#"><img width="600px" src="img/nguyenkhang.png" alt="banner" /></a>
+    <a title="banner" href="#"><img src="img/nguyenkhang.png" alt="banner" /></a>
   <br/>
 </p>
 
