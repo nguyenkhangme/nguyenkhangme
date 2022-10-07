@@ -6,7 +6,7 @@
 
 <p align="center">
   <br />
-    <a title="banner" href="https://nguyenkhang.me/"><img src="img/nguyenkhang.png" alt="banner" /></a>
+    <a title="banner" href="https://nguyenkhang.me/" target="_blank"><img src="img/nguyenkhang.png" alt="banner" /></a>
   <br/>
 </p>
 
