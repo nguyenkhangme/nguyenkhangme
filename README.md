@@ -20,28 +20,29 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 -->
 
-<table><tr><td valign="top" width="33%">
+
+<!-- <table><tr><td valign="top" width="33%">
 
 ### iOS repositories
-<!-- recent_releases starts -->
+
 [.](#) - 2022-09-09
-<!-- recent_releases ends -->
+
 More [recent releases](#)
 </td><td valign="top" width="34%">
 
 ### AI repositories
-<!-- blog starts -->
+
 [.](#) - 2022-09-09
-<!-- blog ends -->
+
 More on [nguyenkhang.me](https://nguyenkhang.me/)
 </td><td valign="top" width="33%">
 
 ### Data Science repositories
-<!-- tils starts -->
+
 [.](#) - 2022-09-09
-<!-- tils ends -->
+
 More on [.](#)
-</td></tr></table>
+</td></tr></table> -->
 
 I built this markdown file with:
 
