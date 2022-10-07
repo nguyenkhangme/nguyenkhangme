@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<a href="https://facebook.com/nguyenkhang19" target="_blank"><img src="https://img.shields.io/badge/--white?logo=facebook&?style=for-the-badge" alt="fb"></a> 
-<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=linkedin&?style=for-the-badge" alt="linkedin"></a> 
+<a href="https://facebook.com/nguyenkhang19" target="_blank"><img src="https://img.shields.io/badge/--white?logo=facebook&?style=for-the-badge" alt="fb"></a>
+<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=linkedin&?style=for-the-badge" alt="linkedin"></a>
 <a href="http://twitter.com/duncanal27" target="_blank"><img src="https://img.shields.io/badge/--white?logo=twitter&?style=social" alt="twitter"></a>
+
+<p align="center">
+  <br />
+    <a title="banner" href="#"><img width="600px" src="img/nguyenkhang.png" alt="banner" /></a>
+  <br/>
+</p>
 
 Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
@@ -38,6 +44,7 @@ More on [.](#)
 </td></tr></table>
 
 I built this markdown file with:
+
 - [https://shields.io](https://shields.io)
 - [https://simpleicons.org](https://simpleicons.org)
 - [https://github.com/simonw/simonw](https://github.com/simonw/simonw)
