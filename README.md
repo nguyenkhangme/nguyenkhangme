@@ -18,7 +18,7 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 :bulb: This project helps data scientist crawl data easily:
 
-[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=Al3927&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API)](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
+[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=Al3927&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API)](https://github.com/Al3927/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
