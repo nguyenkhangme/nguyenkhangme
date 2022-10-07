@@ -2,7 +2,8 @@
 
 Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
-My team and I are making this python package that helps prepare image datasets much easier: [PrepareImage - Custom Your Our Image Dataset](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
+:bulb: My team and I are making this python package that helps prepare image datasets much easier: [PrepareImage - Custom Your Our Image Dataset](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
+:bulb: This project help crawls data much easier: [Delegation Pattern In Python To Crawl Data With API](https://github.com/Al3927/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
 <!--
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 -->
