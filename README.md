@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://facebook.com/nguyenkhang19" target="_blank"><img src="https://img.shields.io/badge/--white?logo=facebook&?style=for-the-badge" alt="fb"></a> 
+<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=linkedin&?style=for-the-badge" alt="linkedin"></a> 
+<a href="http://twitter.com/duncanal27" target="_blank"><img src="https://img.shields.io/badge/--white?logo=twitter&?style=social" alt="twitter"></a>
+
 Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
 :bulb: My team and I are making this python package that helps prepare image datasets much easier: [PrepareImage - Custom Your Our Image Dataset](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
@@ -9,9 +13,6 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 <!--
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
 -->
-<a href="https://facebook.com/nguyenkhang19" target="_blank"><img src="https://img.shields.io/badge/--white?logo=facebook&?style=for-the-badge" alt="fb"></a> 
-<a href="http://linkedin.com/in/nguyenkhangme/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=linkedin&?style=for-the-badge" alt="linkedin"></a> 
-<a href="http://twitter.com/duncanal27" target="_blank"><img src="https://img.shields.io/badge/--white?logo=twitter&?style=social" alt="twitter"></a>
 
 <table><tr><td valign="top" width="33%">
 
