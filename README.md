@@ -13,9 +13,11 @@
 Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
 :bulb: My team and I are making this python package that helps prepare image datasets much easier:
+
 [![PrepareImage - Custom Your Our Image Dataset](https://github-readme-stats.vercel.app/api/pin/?username=Khoa-Hoc-Du-Lieu&repo=PrepareImage-Custom-Your-Our-Image-Dataset)](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
 
 :bulb: This project help crawls data much easier: 
+
 [![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=Al3927&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API)](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
 
 <!--
