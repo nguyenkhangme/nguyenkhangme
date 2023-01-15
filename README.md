@@ -16,11 +16,11 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 :bulb: Auto-organize your google drive using the power of shell:
 
-[![Auto-Organize-Your-Google-Drive](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Auto-Organize-Your-Google-Drive)](https://github.com/Al3927/Auto-Organize-Your-Google-Drive)
+[![Auto-Organize-Your-Google-Drive](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Auto-Organize-Your-Google-Drive)](https://github.com/nguyenkhangme/Auto-Organize-Your-Google-Drive)
 
 :bulb: This project helps data scientist crawl data easily:
 
-[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API)](https://github.com/Al3927/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
+[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API)](https://github.com/nguyenkhangme/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
 
 :bulb: My team and I are making this python package that helps prepare image datasets much easier:
 
