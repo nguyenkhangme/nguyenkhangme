@@ -12,6 +12,8 @@
 
 Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
 
+[My contact and social media details](https://nguyenkhang.me/contact)
+
 :bulb: Auto-organize your google drive using the power of shell:
 
 [![Auto-Organize-Your-Google-Drive](https://github-readme-stats.vercel.app/api/pin/?username=Al3927&repo=Auto-Organize-Your-Google-Drive)](https://github.com/Al3927/Auto-Organize-Your-Google-Drive)
