@@ -11,7 +11,7 @@
   <br/>
 </p>
 
-Currently working on non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/) and [DataLearner](https://www.datalearner.org). Read [my blog](https://nguyenkhang.me/)
+Currently, I work as Innovation Engineer (nearly the same as MLE) at KBTG VN, out of work I use my free time to contribute to non-profit organizations [KhoaHocDuLieu](http://khoahocdulieu.org/) and [DataLearner](https://www.datalearner.org). Read [my blog](https://nguyenkhang.me/)
 
 [My contact and social media details](https://nguyenkhang.me/contact)
 
