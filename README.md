@@ -11,7 +11,7 @@
   <br/>
 </p>
 
-Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/). Read [my blog](https://nguyenkhang.me/)
+Currently working on non-profit organization [KhoaHocDuLieu](http://khoahocdulieu.org/) and [DataLearner](https://www.datalearner.org). Read [my blog](https://nguyenkhang.me/)
 
 [My contact and social media details](https://nguyenkhang.me/contact)
 
