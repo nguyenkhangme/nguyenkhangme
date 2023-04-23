@@ -19,6 +19,10 @@ Currently working on a non-profit organization [KhoaHocDuLieu](http://khoahocdul
 
 [![Auto-Organize-Your-Google-Drive](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Auto-Organize-Your-Google-Drive&show_owner=true)](https://github.com/nguyenkhangme/Auto-Organize-Your-Google-Drive)
 
+:bulb: Auto-generate directory tree into markdown using Python and GitHub Action:
+
+[![Auto-generate directory tree into markdown using Python and GitHub Action](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=generate_directory_tree_into_markdown&show_owner=true)](https://github.com/nguyenkhangme/generate_directory_tree_into_markdown)
+
 :bulb: This project helps data scientist crawl data easily:
 
 [![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API&show_owner=true)](https://github.com/nguyenkhangme/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
