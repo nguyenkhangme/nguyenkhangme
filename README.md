@@ -17,7 +17,7 @@ Currently, I work as Innovation Engineer (nearly the same as MLE) at KBTG VN, ou
 
 :bulb: Auto-organize your google drive using the power of shell:
 
-[![Auto-Organize-Your-Google-Drive](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Auto-Organize-Your-Google-Drive&show_owner=true)](https://github.com/nguyenkhangme/Auto-Organize-Your-Google-Drive)
+[![Auto-Organize-Your-Google-Drive](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nguyenkhangme&repo=Auto-Organize-Your-Google-Drive&show_owner=true)](https://github.com/nguyenkhangme/Auto-Organize-Your-Google-Drive)
 
 :bulb: Auto-generate directory tree into markdown using Python and GitHub Action:
 
