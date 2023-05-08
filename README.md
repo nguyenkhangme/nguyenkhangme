@@ -21,15 +21,15 @@ Currently, I work as Innovation Engineer (nearly the same as MLE) at KBTG VN, ou
 
 :bulb: Auto-generate directory tree into markdown using Python and GitHub Action:
 
-[![Auto-generate directory tree into markdown using Python and GitHub Action](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=generate_directory_tree_into_markdown&show_owner=true)](https://github.com/nguyenkhangme/generate_directory_tree_into_markdown)
+[![Auto-generate directory tree into markdown using Python and GitHub Action](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nguyenkhangme&repo=generate_directory_tree_into_markdown&show_owner=true)](https://github.com/nguyenkhangme/generate_directory_tree_into_markdown)
 
 :bulb: This project helps data scientist crawl data easily:
 
-[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats.vercel.app/api/pin/?username=nguyenkhangme&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API&show_owner=true)](https://github.com/nguyenkhangme/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
+[![Delegation Pattern In Python To Crawl Data With API](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nguyenkhangme&repo=Delegation-Pattern-In-Python-To-Crawl-Data-With-API&show_owner=true)](https://github.com/nguyenkhangme/Delegation-Pattern-In-Python-To-Crawl-Data-With-API)
 
 :bulb: My team and I are making this python package that helps prepare image datasets much easier:
 
-[![PrepareImage - Custom Your Our Image Dataset](https://github-readme-stats.vercel.app/api/pin/?username=Khoa-Hoc-Du-Lieu&repo=PrepareImage-Custom-Your-Our-Image-Dataset&show_owner=true)](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
+[![PrepareImage - Custom Your Our Image Dataset](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Khoa-Hoc-Du-Lieu&repo=PrepareImage-Custom-Your-Our-Image-Dataset&show_owner=true)](https://github.com/Khoa-Hoc-Du-Lieu/PrepareImage-Custom-Your-Our-Image-Dataset)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=Al3927&color=orange)
